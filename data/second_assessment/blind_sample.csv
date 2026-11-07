@@ -1,0 +1,51 @@
+sid,title,year
+1,"A State-of-the-Art Survey of Generative AI for Mobile Edge Computing: Architectures, Optimization, and Applications",2026
+2,"Generative Video Communications: Concepts, Key Technologies, and Future Research Trends",2025
+3,DiT-JSCC: Rethinking Deep JSCC With Diffusion Transformers and Semantic Representations,2026
+4,Diffusion-Aided Joint Source Channel Coding for High Realism Wireless Image Transmission,2025
+5,Asymmetric Semantic Communication System Based on Diffusion Model in IoT,2023
+6,Semantic Image Communication Based on Swin Transformer for Satellite IoE,2025
+7,MA-DDSCNet: multi-agent dynamic diffusion semantic communication network for task-oriented multi-modal fusion in autonomous driving,2026
+8,Emergency Communication: OTFS-Based Semantic Transmission with Diffusion Noise Suppression,2025
+9,A Semantic-Driven Data Generative Traffic Modeling Method for Digital Twin Networks,2024
+10,Low-Rank Guided Dual Diffusion Model with Quadruple Input Modalities for Robust Image Transmission,2026
+11,"Generative AI for non-terrestrial networks: design, applications, and challenges",2025
+12,SNR-LDM: An Efficient SNR-Guided Latent Diffusion Model for Generative AI Services Over Dynamic Wireless Networks,2026
+13,NYUSIM: A Roadmap to AI-Enabled Statistical Channel Modeling and Simulation,2026
+14,Mixture of Semantics Transmission for Generative AI-Enabled Semantic Communication Systems,2025
+15,Towards a Joint Task-Oriented and Generative Semantic Communication Framework for 6G Networks,2026
+16,MambaJSCC: Adaptive Deep Joint Source–Channel Coding With Generalized State Space Model,2025
+17,Blind MIMO Semantic Communication,2025
+18,Latency-Aware Generative Semantic Communications With Pre-Trained Diffusion Models,2024
+19,Design and Implementation of an Intelligent Course Video Transmission Platform Based on Semantic Communication,2026
+20,Generative Al-aided Joint Training-free Secure Semantic Communications via Multi-modal Prompts,2024
+21,PODD: Path-Optimized Denoising Diffusion Models for Wireless Semantic Communications,2026
+22,DMCE: Diffusion Model Channel Enhancer for Multi-User Semantic Communication Systems,2024
+23,Robust wireless image transmission at extreme low SNR using latent diffusion models,2026
+24,ICDM: Interference Cancellation Diffusion Models for Wireless Semantic Communications,2026
+25,Learning the Structure of Connection Graphs,2026
+26,Sensing-Error-Aware UAV Scheduling Based on Generative Diffusion-Driven MADRL for ISAC-Enabled Multi-UAV Systems,2025
+27,Semantic Communication in the Metaverse,2025
+28,Generative Semantic Communication: Diffusion Models Beyond Bit Recovery,2026
+29,Language-Oriented Semantic Communication for Image Transmission with Fine-Tuned Diffusion Model,2024
+30,Beyond Bit Fidelity: Dual-Mode Domain-Aware Knowledge-Enhanced Semantic Text Communication Framework,2026
+31,"A Comprehensive Survey of Large AI Models for Future Communications: Foundations, Applications, and Challenges",2026
+32,"Communicate Less, Synthesize the Rest: Latency-Aware Intent-Based Generative Semantic Multicasting With Diffusion Models",2026
+33,Hybrid Digital-Analog Semantic Communications,2025
+34,Adaptive Semantic Image Transmission Using Generative Foundation Model,2024
+35,"Semantic Communications in 6G: Coexistence, Multiple Access, and Satellite Networks",2025
+36,Zero-Forget Preservation of Semantic Communication Alignment in Distributed AI Networks,2024
+37,GDE: A Generative Diffusion Equalizer for ICSI-Free Semantic Communications in SAGINs,2026
+38,Condensed Semantic Communication for 360$^{\circ }$∘ Image Transmission,2026
+39,Discrete-Space Generative AI Pipeline for Semantic Transmission of Signals,2026
+40,Conditional Denoising Diffusion Probabilistic Models for Data Reconstruction Enhancement in Wireless Communications,2025
+41,Vision-Language Feature-Based Multimodal Semantic Communication System,2026
+42,Multi-Modal Semantic Communication With Point Cloud Diffusion,2025
+43,GAI-Enabled Task-Driven Semantic Communication for Surveillance Video,2026
+44,Optimally Bridging Semantics and Data: Generative Semantic Communication via Schrödinger Bridge,2026
+45,Diffusion-Based Semantic-Communication-Assisted Low-Altitude Intelligent Service for IoT,2025
+46,Generative AI for Physical Layer Communications: A Survey,2024
+47,Hybrid Image Encryption for WISN in Privacy Protection and Security of Public Big Data Using Chaotic Maps,2024
+48,Multimodal Generative Semantic Communication Based on Latent Diffusion Model,2024
+49,Rate-Adaptive Generative Semantic Communication Using Conditional Diffusion Models,2025
+50,Adaptive denoising diffusion null-space models for semantic communications over MIMO channels,2026

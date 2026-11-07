@@ -1,0 +1,51 @@
+sid,decision,reason
+1,exclude,Survey of GenAI for mobile edge computing.
+2,exclude,Conceptual overview/magazine-style paper; no specific diffusion receiver evaluated.
+3,include,DiT diffusion decoder in JSCC; evaluated under low-SNR extreme channel conditions.
+4,include,Stable Diffusion decoder conditioned on noisy channel symbols and SNR; evaluated at 1 dB SNR.
+5,include,Diffusion generates images at receiver; robustness reported; assumed channel-noise robustness (abstract vague).
+6,exclude,Swin Transformer JSCC; no diffusion or score-based generative model.
+7,include,Diffusion semantic decoding over time-varying vehicular links; channel evaluation assumed from link-specific setting (abstract vague).
+8,include,Diffusion channel denoising module in OTFS semantic receiver; SNR gains reported.
+9,exclude,Diffusion for digital-twin traffic generation; no noisy channel receiver.
+10,include,Dual diffusion receiver for image transmission; evaluated under severe noise conditions.
+11,exclude,Overview article; diffusion used for resource allocation/beamforming.
+12,include,SNR-guided latent diffusion denoising aligned with channel SNR; PSNR/LPIPS over dynamic channels.
+13,exclude,No abstract; title indicates channel modeling roadmap not a diffusion receiver.
+14,include,Diffusion reconstructs image at receiver from wireless semantic info; noisy channel evaluation assumed (unstated).
+15,include,Diffusion semantic decoder after OFDM MIMO vehicular channel; evaluated over varying SNR.
+16,exclude,Mamba-based JSCC; no diffusion model.
+17,include,Variational diffusion blind receiver recovers channel and source in block-fading MIMO.
+18,include,Pre-trained diffusion receiver synthesizes from semantics sent over adaptive wireless channel; channel-adaptive evaluation.
+19,exclude,Stable Diffusion video coding; bandwidth/bitrate only; no noisy channel evaluation.
+20,exclude,Diffusion mainly for joint power/jamming optimisation; no noisy-channel reconstruction evaluation described.
+21,include,Channel-aware diffusion denoiser in JSCC; Rayleigh fading SNR evaluation.
+22,include,Diffusion CSI enhancer inside multi-user JSCC pipeline; mIoU at low SNR.
+23,include,Latent diffusion JSCC decoder from corrupted signal; evaluated down to -2 dB SNR.
+24,include,Diffusion interference cancellation at semantic receiver; Rayleigh fading with interference evaluated.
+25,exclude,Connection graph learning; diffusion means sheaf diffusion; not communications receiver.
+26,exclude,Diffusion used for UAV scheduling/MADRL optimisation only.
+27,exclude,Book chapter; diffusion for resource allocation only.
+28,include,Generative receiver robust to channel additive noise; evaluated under highly noisy channel conditions.
+29,include,Fine-tuned diffusion generates images from text received over noisy channel; robustness evaluated.
+30,exclude,Text semantic comm with LLM/VAE; no diffusion generative model.
+31,exclude,Survey of large AI models for communications.
+32,exclude,Diffusion synthesis with latency/power optimisation; channel errors apparently not reaching model; no noisy-channel quality evaluation.
+33,include,Denoising diffusion signal detection in hybrid digital-analog SemCom; robustness to channel variations.
+34,exclude,Foundation-model reconstruction; diffusion/score-based model not stated.
+35,exclude,Overview of semantic communications in 6G.
+36,exclude,Score-based optimisation of masks; not a generative diffusion receiver.
+37,include,Diffusion equalizer at semantic receiver under Rician fading and ICSI mismatch.
+38,include,Latent consistency (diffusion) model denoises channel-corrupted latents; adapts steps to channel noise.
+39,include,Discrete diffusion generative decoding over erasure channels; graceful degradation evaluated.
+40,include,Conditional DDPM receiver for wireless image transmission; low-SNR evaluation.
+41,include,Diffusion image generator at receiver conditioned on VLF over noisy channel; low-SNR evaluation.
+42,include,Diffusion point cloud reconstruction; evaluated across SNR conditions.
+43,exclude,Diffusion merging at receiver; no noisy channel or channel evaluation reported.
+44,include,Schrodinger bridge generative decoder for high-noise channels; channel-noise evaluation assumed.
+45,include,Diffusion in JSCC receiver using channel state priors; evaluated across communication environments.
+46,exclude,Survey of generative AI for physical layer.
+47,exclude,Confusion-diffusion image encryption; not generative diffusion.
+48,exclude,Zlib-compressed semantic maps; no noisy channel reaching the diffusion model.
+49,include,Conditional diffusion decoder in DJSCC; noisy channel evaluation assumed as standard for DJSCC.
+50,include,DDNM diffusion plug-in denoises MIMO received signals; evaluated across noise levels.
